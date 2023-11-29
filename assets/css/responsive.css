@@ -1,0 +1,268 @@
+@media all and (max-width: 1350px){
+	.chilly__item {
+	max-width: 1125px;
+}
+}
+@media all and (max-width: 1200px){
+	.chilly__item h1 {
+	font-size: 6rem;
+	line-height: 7.5rem;
+	margin-bottom: 2rem;
+}
+.chilly__item h3 {
+	font-size: 2.4rem;
+	line-height: 3.2rem;
+}
+.chilly__item {
+	max-width: 944px;
+}
+.lorems__items {
+	gap: 2rem;
+}
+.lorems__items .col-lg-3 {
+	width: 23%;
+}
+.footer__area ul li a {
+	margin-left: 0.8rem;
+	font-size: 1.3rem;
+}
+.footer__area p a {
+	font-size: 1.3rem;
+}
+.footer__area {
+	background: #4D4D4D;
+	padding: 1.5rem 0rem;
+}
+}
+@media all and (max-width: 991px){
+	.chilly__item {
+	max-width: 707px;
+}
+.nav__show {
+	display: block;
+	font-size: 2.5rem;
+	color: #9C65AC;
+	cursor: pointer;
+}
+.nav__close {
+	position: fixed;
+	z-index: 9999999;
+	top: 42px;
+	font-size: 30px;
+	color: #31B0BE;
+	cursor: pointer;
+}
+
+.menu{
+	display: none;
+}
+
+.menu__area{
+	position: relative;
+}
+.menu__active {
+	display: block;
+	position: fixed;
+	width: 121%;
+	height: 100vh;
+	background: #9C65AC;
+	top: -110px;
+	left: -84px;
+	z-index: 99999;
+	padding-top: 200px;
+}
+.menu__active ul {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+}
+.menu__active ul li a {
+	color: #fff;
+	margin: 0.5rem 0rem;
+}
+.lorem__image {
+	max-width: 46.6rem;
+	margin-top: 3rem;
+}
+.lorem__content h2 {
+	font-size: 4rem;
+}
+.lorem__content h3 {
+	font-size: 2.5rem;
+	line-height: 3.4rem;
+	padding: 1rem 0rem;
+	max-width: 49rem;
+}
+.lorem__content p {
+	font-size: 1.8rem;
+	line-height: 2.6rem;
+	max-width: 53rem;
+}
+.lorems__items .col-lg-3 {
+	width: 48%;
+}
+.contact__logo img {
+	width: 6.6rem;
+	height: 11.3rem;
+	object-fit: contain;
+}
+.social__icons a {
+	font-size: 2.3rem;
+	width: 4rem;
+	height: 4rem;
+	margin: 0rem 0.4rem;
+}
+.footer__area p a {
+	display: block;
+	text-align: center;
+}
+.footer__area ul {
+	display: flex;
+	justify-content: center;
+}
+.footer__area {
+	padding: 2.5rem 0rem;
+}
+.footer__area ul {
+	flex-wrap: wrap;
+}
+
+}
+
+@media all and (max-width: 767px){
+	.chilly__item h1 {
+	font-size: 4rem;
+	line-height: 7.5rem;
+	margin-bottom: 2rem;
+}
+.chilly__item h3 {
+	font-size: 2rem;
+	line-height: 2.5rem;
+}
+.chilly__item h1 {
+	font-size: 4rem;
+	line-height: 7.5rem;
+	margin-bottom: 0rem;
+}
+.chilly__item {
+	max-width: 531px;
+}
+.serch__tabe {
+	top: -10rem;
+	margin-bottom: -7rem;
+}
+.serch__tabe #pills-home-tab {
+	font-size: 1.7rem;
+	padding: 1.2rem 0;
+}
+.serch__tabe #pills-profile-tab {
+	font-size: 1.7rem;
+	padding: 1.2rem 0;
+
+}
+.serch__form__area {
+	padding: 3.2rem;
+}
+.serch__form__area form button {
+	font-size: 2.2rem;
+}
+.serch__form__area form input {
+	padding: 1rem 6.4rem 1rem 2.4rem;
+	font-size: 1.6rem;
+}
+.lorem__content h2 {
+	font-size: 3.6rem;
+}
+.lorem__content h3 {
+	font-size: 2rem;
+	line-height: 3rem;
+	padding: 0.6rem 0rem;
+	max-width: 42.7rem;
+}
+.lorem__content p {
+	font-size: 1.5rem;
+	line-height: 2.3rem;
+	max-width: 47.5rem;
+}
+.social__icons {
+	justify-content: start;
+}
+.contact__link {
+	margin: 3rem 0rem;
+}
+
+}
+@media all and (max-width: 576px){
+	.chilly__item {
+	max-width: 442px;
+}
+.serch__tabe {
+	top: 2.5rem;
+	margin: 0rem 2rem;
+	margin-bottom: 5rem;
+}
+.header__area {
+	padding: 0rem 2rem;
+}
+.lorems__items {
+	gap: 2rem;
+	justify-content: center;
+}
+.lorems__items .col-lg-3 {
+	width: 44%;
+}
+.contact_area {
+	background: #9C65AC;
+	padding: 5rem 2rem;
+}
+.contact__link a i {
+	font-size: 1.7rem;
+}
+.contact__link a {
+	margin: 0.8rem 0rem;
+	font-size: 1.4rem;
+
+
+}
+.social__icons a {
+	font-size: 1.8rem;
+	width: 3rem;
+	height: 3rem;
+}
+
+}
+@media all and (max-width: 480px){
+	.logo img {
+	width: 50px;
+	height: 72px;
+}
+	.chilly__item {
+		max-width: 304px;
+	}
+	.chilly__item h1 {
+	font-size: 4rem;
+	line-height: 5.5rem;
+	margin-bottom: 2rem;
+}
+.chilly__days_area {
+	padding: 6rem 0rem 3rem 0rem;
+}
+.chilly__days_area .owl-theme .owl-dots {
+	margin-top: 3rem;
+}
+.menu__active {
+	left: -61px;
+}
+.lorems__items .col-lg-3 {
+	width: 90%;
+}
+.customar_area {
+	padding-bottom: 3.4rem;
+}
+.lorem__section_area {
+	padding: 6.4rem 2rem;
+}
+
+
+}
